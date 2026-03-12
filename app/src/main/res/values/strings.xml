@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">局域网设备发现</string>
+    <string name="start_discovery">开始发现</string>
+    <string name="stop_discovery">停止发现</string>
+    <string name="register_service">注册服务</string>
+    <string name="unregister_service">注销服务</string>
+    <string name="device_name_hint">输入设备名称</string>
+    <string name="no_devices_found">暂无发现设备</string>
+    <string name="discovered_devices">发现的设备</string>
+    <string name="my_device_info">我的设备信息</string>
+    <string name="status_registered">已注册</string>
+    <string name="status_unregistered">未注册</string>
+    <string name="ring">响铃</string>
+    <string name="ringing">正在响铃...</string>
+</resources>
